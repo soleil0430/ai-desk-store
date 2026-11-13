@@ -5,21 +5,23 @@
       "name": "시험 펭귄",
       "source": "ai",
       "states": {
+        "done": "done.svg",
         "idle": "idle.svg"
       },
       "lines": {
         "done": [
-          "다 했다!"
+          "또 했다!"
         ]
       },
       "author": "soleil0430",
       "addedAt": "2026-11-13T06:31:00Z",
-      "updatedAt": "2026-11-13T06:31:00Z",
+      "updatedAt": "2026-11-13T06:31:53Z",
       "files": [
         "character.json",
+        "done.svg",
         "idle.svg"
       ],
-      "size": 495
+      "size": 790
     },
     {
       "id": "hulrangi-seal",
