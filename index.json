@@ -107,7 +107,7 @@
       },
       "author": "soleil0430",
       "addedAt": "2026-11-13T00:00:00Z",
-      "updatedAt": "2026-11-13T00:00:00Z",
+      "updatedAt": "2026-11-13T06:34:26Z",
       "files": [
         "character.json",
         "coffee.webp",
@@ -117,10 +117,11 @@
         "idle.webp",
         "juggling.webp",
         "sleeping.webp",
+        "thinking.webp",
         "waiting.webp",
         "working.webp"
       ],
-      "size": 12395877
+      "size": 13280189
     }
   ]
 }
