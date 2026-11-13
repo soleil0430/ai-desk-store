@@ -4,7 +4,7 @@
   ],
   "lines" : {
     "done" : [
-      "다 했다!"
+      "또 했다!"
     ]
   },
   "name" : "시험 펭귄",
@@ -14,6 +14,7 @@
   },
   "source" : "ai",
   "states" : {
+    "done" : "done.svg",
     "idle" : "idle.svg"
   }
 }
