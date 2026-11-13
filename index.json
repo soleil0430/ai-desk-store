@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "id": "test-pen",
+      "name": "시험 펭귄",
+      "source": "ai",
+      "states": {
+        "idle": "idle.svg"
+      },
+      "lines": {
+        "done": [
+          "다 했다!"
+        ]
+      },
+      "author": "soleil0430",
+      "addedAt": "2026-11-13T06:31:00Z",
+      "updatedAt": "2026-11-13T06:31:00Z",
+      "files": [
+        "character.json",
+        "idle.svg"
+      ],
+      "size": 495
+    },
+    {
       "id": "hulrangi-seal",
       "name": "헐랭이물개",
       "source": "clawd",
