@@ -1,0 +1,64 @@
+{
+  "content": {
+    "h": 384,
+    "w": 384,
+    "x": 0,
+    "y": 0
+  },
+  "idleExtras": [
+    {
+      "file": "coffee.webp",
+      "ms": 7200
+    }
+  ],
+  "lines": {
+    "done": [
+      "끝냈다. 다음.",
+      "이 정도는 워밍업이지",
+      "한 판 끝. 땀도 안 났다"
+    ],
+    "error": [
+      "크윽… 한 방 먹었다",
+      "쓰러졌다. 다시 일어난다",
+      "벽이다. 부순다"
+    ],
+    "info": [
+      "들어라",
+      "전할 말 있다"
+    ],
+    "refill": [
+      "힘이 다시 차올랐다!",
+      "풀충전. 간다"
+    ],
+    "waiting": [
+      "네 결정만 남았다",
+      "확인해라. 지금",
+      "사나이는 기다린다. 빨리"
+    ],
+    "warn": [
+      "힘이 바닥나고 있다",
+      "체력 아껴 써라"
+    ],
+    "working": [
+      "부순다. 비켜라",
+      "지금 두드리는 중이다",
+      "말 걸지 마라. 친다"
+    ]
+  },
+  "name": "기가주수",
+  "size": {
+    "h": 384,
+    "w": 384
+  },
+  "source": "clawd",
+  "states": {
+    "done": "done.webp",
+    "dragging": "dragging.webp",
+    "error": "error.webp",
+    "idle": "idle.webp",
+    "juggling": "juggling.webp",
+    "sleeping": "sleeping.webp",
+    "waiting": "waiting.webp",
+    "working": "working.webp"
+  }
+}

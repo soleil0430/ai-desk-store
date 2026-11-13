@@ -1,0 +1,126 @@
+{
+  "characters": [
+    {
+      "id": "hulrangi-seal",
+      "name": "헐랭이물개",
+      "source": "clawd",
+      "states": {
+        "done": "thumbsup.apng",
+        "dragging": "hang.apng",
+        "error": "cry.apng",
+        "idle": "idle.apng",
+        "juggling": "juggling.apng",
+        "sleeping": "sleep.apng",
+        "waiting": "notify.apng",
+        "working": "working.apng"
+      },
+      "lines": {
+        "done": [
+          "끝났어요!",
+          "다 했어요!"
+        ],
+        "error": [
+          "앗, 멈췄어요"
+        ],
+        "info": [
+          "알려 드려요"
+        ],
+        "refill": [
+          "한도가 다시 찼어요!"
+        ],
+        "waiting": [
+          "봐 주세요!",
+          "기다리고 있어요"
+        ],
+        "warn": [
+          "한도가 얼마 안 남았어요"
+        ]
+      },
+      "author": "soleil0430",
+      "addedAt": "2026-11-13T00:00:01Z",
+      "updatedAt": "2026-11-13T00:00:01Z",
+      "files": [
+        "character.json",
+        "cheer.apng",
+        "cry.apng",
+        "hang.apng",
+        "heart-throw.apng",
+        "hearts-two.apng",
+        "idle.apng",
+        "juggling.apng",
+        "notes.apng",
+        "notify.apng",
+        "sleep.apng",
+        "sway.apng",
+        "thumbsup.apng",
+        "working.apng"
+      ],
+      "size": 7234981
+    },
+    {
+      "id": "gigajusu",
+      "name": "기가주수",
+      "source": "clawd",
+      "states": {
+        "done": "done.webp",
+        "dragging": "dragging.webp",
+        "error": "error.webp",
+        "idle": "idle.webp",
+        "juggling": "juggling.webp",
+        "sleeping": "sleeping.webp",
+        "waiting": "waiting.webp",
+        "working": "working.webp"
+      },
+      "lines": {
+        "done": [
+          "끝냈다. 다음.",
+          "이 정도는 워밍업이지",
+          "한 판 끝. 땀도 안 났다"
+        ],
+        "error": [
+          "크윽… 한 방 먹었다",
+          "쓰러졌다. 다시 일어난다",
+          "벽이다. 부순다"
+        ],
+        "info": [
+          "들어라",
+          "전할 말 있다"
+        ],
+        "refill": [
+          "힘이 다시 차올랐다!",
+          "풀충전. 간다"
+        ],
+        "waiting": [
+          "네 결정만 남았다",
+          "확인해라. 지금",
+          "사나이는 기다린다. 빨리"
+        ],
+        "warn": [
+          "힘이 바닥나고 있다",
+          "체력 아껴 써라"
+        ],
+        "working": [
+          "부순다. 비켜라",
+          "지금 두드리는 중이다",
+          "말 걸지 마라. 친다"
+        ]
+      },
+      "author": "soleil0430",
+      "addedAt": "2026-11-13T00:00:00Z",
+      "updatedAt": "2026-11-13T00:00:00Z",
+      "files": [
+        "character.json",
+        "coffee.webp",
+        "done.webp",
+        "dragging.webp",
+        "error.webp",
+        "idle.webp",
+        "juggling.webp",
+        "sleeping.webp",
+        "waiting.webp",
+        "working.webp"
+      ],
+      "size": 12395877
+    }
+  ]
+}

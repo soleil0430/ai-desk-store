@@ -1,0 +1,68 @@
+{
+  "content": {
+    "h": 69.3,
+    "w": 50,
+    "x": 34.7,
+    "y": 46.3
+  },
+  "idleExtras": [
+    {
+      "file": "cheer.apng",
+      "ms": 4000
+    },
+    {
+      "file": "notes.apng",
+      "ms": 4000
+    },
+    {
+      "file": "hearts-two.apng",
+      "ms": 4000
+    },
+    {
+      "file": "heart-throw.apng",
+      "ms": 4000
+    },
+    {
+      "file": "sway.apng",
+      "ms": 4000
+    }
+  ],
+  "lines": {
+    "done": [
+      "끝났어요!",
+      "다 했어요!"
+    ],
+    "error": [
+      "앗, 멈췄어요"
+    ],
+    "info": [
+      "알려 드려요"
+    ],
+    "refill": [
+      "한도가 다시 찼어요!"
+    ],
+    "waiting": [
+      "봐 주세요!",
+      "기다리고 있어요"
+    ],
+    "warn": [
+      "한도가 얼마 안 남았어요"
+    ]
+  },
+  "name": "헐랭이물개",
+  "size": {
+    "h": 120,
+    "w": 120
+  },
+  "source": "clawd",
+  "states": {
+    "done": "thumbsup.apng",
+    "dragging": "hang.apng",
+    "error": "cry.apng",
+    "idle": "idle.apng",
+    "juggling": "juggling.apng",
+    "sleeping": "sleep.apng",
+    "waiting": "notify.apng",
+    "working": "working.apng"
+  }
+}
